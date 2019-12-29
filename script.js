@@ -1,4 +1,4 @@
-const raindrop = document.querySelector(".raindrop");
+
 
 function randRange( minNum, maxNum) {
   return (Math.floor(Math.random() * (maxNum - minNum)) + minNum);
